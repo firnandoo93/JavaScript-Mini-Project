@@ -226,7 +226,7 @@ while (status) {
     status = false;
     break;
   } else {
-    console.log("Input not valid!");
+    console.log("\nInput not valid!\n");
     break;
   }
 }
