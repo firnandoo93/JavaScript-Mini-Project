@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Narnia",
+      "author": "Peter",
+      "year": 2005,
+      "available": true,
+      "pageCount": 205,
+      "genre": "Adventure",
+      "type": "Book"
+    },
+    {
+      "id": 2,
+      "title": "Jumanji",
+      "author": "Alex",
+      "year": 2001,
+      "available": true,
+      "duration": 130,
+      "narrator": "Kevin",
+      "type": "AudioBook"
+    },
+    {
+      "id": 3,
+      "title": "The Ends Game",
+      "author": "Petrov",
+      "year": 2009,
+      "available": true,
+      "pageCount": 315,
+      "genre": "Sci-fi",
+      "type": "Book"
+    },
+    {
+      "id": 4,
+      "title": "The Last of Us",
+      "author": "Morris",
+      "year": 2015,
+      "available": true,
+      "duration": 145,
+      "narrator": "Steven",
+      "type": "AudioBook"
+    },
+    {
+      "id": 5,
+      "title": "Tensura",
+      "author": "Rimuru",
+      "year": 2019,
+      "available": true,
+      "duration": 240,
+      "narrator": "Rangga",
+      "type": "AudioBook"
+    }
+  ],
+  "nextId": 6
+}
